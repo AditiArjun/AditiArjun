@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditi Chavan</h1>
-<h3 align="center">A 4th Year AI and Data Science Learner</h3>
+<h3 align="center">An AI and Data Science Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditiarjun&label=Profile%20views&color=0e75b6&style=flat" alt="aditiarjun" /> </p>
 
